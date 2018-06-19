@@ -2232,6 +2232,12 @@ body {
 .cid-qVqPAK0nM1 .links {
   text-align: right;
 }
+.cid-qVqPAK0nM1 .copyright > p I {
+  color: #07ee25;
+}
+.cid-qVqPAK0nM1 .copyright > p B {
+  color: #07ee25;
+}
 .cid-qVlfkF51Jr .navbar {
   padding: .5rem 0;
   background: #333333;
