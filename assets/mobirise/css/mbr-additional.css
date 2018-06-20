@@ -2025,6 +2025,20 @@ body {
   flex-direction: column;
   -webkit-flex-direction: column;
 }
+.cid-qVwXUlcdhR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #07ee25;
+}
+.cid-qVwXUlcdhR .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qVwXUlcdhR .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qVwXUlcdhR H2 {
+  color: #ffffff;
+}
 .cid-qVqPlRsdId {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2231,12 +2245,6 @@ body {
 }
 .cid-qVqPAK0nM1 .links {
   text-align: right;
-}
-.cid-qVqPAK0nM1 .copyright > p I {
-  color: #07ee25;
-}
-.cid-qVqPAK0nM1 .copyright > p B {
-  color: #07ee25;
 }
 .cid-qVlfkF51Jr .navbar {
   padding: .5rem 0;
